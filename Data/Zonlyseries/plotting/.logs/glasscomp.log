@@ -1,0 +1,10 @@
+This is MetaPost, version 1.208 (kpathsea version 5.0.0) (mem=mpost 2012.05.12)  5 JUL 2012 02:02
+**glasscomp.mp
+(./glasscomp.mp (/usr/share/texmf-texlive/metapost/base/graph.mp
+(/usr/share/texmf-texlive/metapost/base/marith.mp
+(/usr/share/texmf-texlive/metapost/base/string.mp))
+(/usr/share/texmf-texlive/metapost/base/format.mp
+(/usr/share/texmf-texlive/metapost/base/string.mp)
+(/usr/share/texmf-texlive/metapost/base/texnum.mp))) [1{pdftex.map}<cmr10.pfb>]
+ )
+1 output file written: glasscomp.1

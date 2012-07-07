@@ -1,0 +1,20 @@
+This is MetaPost, version 1.208 (kpathsea version 5.0.0) (mem=mpost 2012.05.12)  4 JUL 2012 23:08
+**resistivity.mp
+(./resistivity.mp (/usr/share/texmf-texlive/metapost/base/graph.mp
+(/usr/share/texmf-texlive/metapost/base/marith.mp
+(/usr/share/texmf-texlive/metapost/base/string.mp))
+(/usr/share/texmf-texlive/metapost/base/format.mp
+(/usr/share/texmf-texlive/metapost/base/string.mp)
+(/usr/share/texmf-texlive/metapost/base/texnum.mp)))
+! Extra tokens will be flushed.
+<to be read again> 
+                   Gdpic_
+Gaddto_->Gdpic_
+               :=Gppic_:=nullpicture;addto.Gdpic_
+gdraw->Gaddto_
+              .doublepath.Gdraw_
+l.72   gdraw
+             p--(p+barup);
+? 
+[1{pdftex.map}<cmr10.pfb><cmmi10.pfb>] )
+1 output file written: resistivity.1

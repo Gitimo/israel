@@ -1,0 +1,32 @@
+* Acronyms
+#+TBLNAME: Acronmys
+| Short | Long                           |
+|-------+--------------------------------|
+| DMSO  | Dimethlysulfoxide              |
+| PDOT  | poly(ethylenedioxythiophene)   |
+| PSS   | poly(styrenesufonite)          |
+| SOH   | Slilcone Organic Heterojuction |
+| SAM   | Self assembled Monolayer       |
+| ITO   | Indium Tin Oxide               |
+| TCL   | Transparent Conductive Layer   |
+| GO    | Graphene Oxide                 |
+|       |                                |
+
+* Terms
+Saturation Current -> Dark Current, J_0. p-n ~10^-13; Schottky 10^-7 without organic barrier
+Homojunctio -> As heterojunction, only with one material exclusively
+Pirana is oxidative cleaning, does not involve HF but H2SO4! Similar method would be RCA; Asher gives similar result, but mybe less clean
+* Zonly-Papers
+0.1% to 0.5% seems to give the greatest increase. Zonyl increases surface smootheness and adherance, thereby suppressing edge-traps and improving FF. No effect on J and V. Donor-density seems to increase as well.
+"Thus, the improvement of FF value by the 0.1% Zonyl treatment can be attributed to the lowerig of space charge layer at the c-Si/PEDOT:PSS interface." Liu, Applied Physics Letter (100), 2012
+Their maximum was found at 0.5%, we use 0.2%, so I suggest a 0.0;0.2;0.4;0.5;0.6%
+They used CLEVIOS1000
+
+** Graphene Oxide (GO)
+*** Method
+PDOT:PSS:GO diluted in methanol then spin coated
+Annealed at 200°C for 1h -> thickness was 55nm
+Used 12.5% GO then 'optimised' - how?
+*** Questions
+What is RCA cleaned?
+1:1:$ (?) NH4OH:H2O2:H2O (30 min.), the HCl:H2O2:H2O

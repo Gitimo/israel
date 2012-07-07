@@ -1,0 +1,21 @@
+* Procedures
+** Cleaning Glass
+   Rinse with EthylAcetate -> Acetone
+   Put in (cleaned) shotglass filled with acetone
+   Sonicate for 6 minutes
+   Blow dry thoroughly
+   Asher for 5 min at 200 W
+   Clean with water
+   Blow dry thoroughly
+   Dry in oven
+** Si
+*** Cutting
+    Apply little pressure when using diamond cutter. Pieces should be ~1*1.5cm^2
+*** Rinse:
+    Swipe with EthylAcetate 
+    Rinse with EthylAcetate -> Acetone -> Methanol -> Water;
+    Blow dry thoroughly(!). Asher for 3min at 100 W;
+    1 min in 2% HF
+    Blow dry thoroughly(!). Asher for 3min at 100 W
+    1 min in 2% HF
+    Important: Use (clean) plastic tweezers

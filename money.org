@@ -1,0 +1,20 @@
+| plus | minus | comment         | Sum |
+|------+-------+-----------------+-----|
+|  454 |       | Airport, 100€   |     |
+|      |   160 | Hostel          |     |
+|      |    15 | Train           |     |
+|      |    50 | Taxi            |     |
+|      |    23 | Cigarettes      |     |
+|      |     7 | Coffee          |     |
+|      |     5 | Coffee          |     |
+|      |    77 | Breakfast       |     |
+|  480 |       | Tel-Aviv, 100€  |     |
+|      |    25 | Lock            |     |
+|      |    70 | Batteries, Film |     |
+|------+-------+-----------------+-----|
+|      |       |                 |     |
+#+TBLFM:$>:15
+
+* todo
+geld überweisen steffi; versicherung 
+
