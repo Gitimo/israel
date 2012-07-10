@@ -14,3 +14,6 @@
 | To-da          | Danke                      |
 | To-da ra-ba    | Danke sehr                 |
 | la briut       | Bless you                  |
+| sli-cha        | Sorry                      |
+| chesh-bon      | the bill (mathematics)     |
+| chalamoht paz  | Sweet dreams               |
