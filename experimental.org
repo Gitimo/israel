@@ -19,3 +19,18 @@
     Blow dry thoroughly(!). Asher for 3min at 100 W
     1 min in 2% HF
     Important: Use (clean) plastic tweezers
+* Daily work
+** <2012-07-19 Do> 
+-Came in at 9:33;
+-Started by cleaning 6 pieces of glass;
+-Lecture ("Mononuclear Phagocytes)
+-Lunch till <2012-07-19 Do 14:09>
+-Preparing solutions for spin coating. Nine glases left.
+| Soultion                            | Ingedients                      |
+|-------------------------------------+---------------------------------|
+| One  Standard .4 for comparison     | Premade by Ann                  |
+| Two Standard .4 for graphene        | Premade by Ann                  |
+| One .5 as new data-point            | PDOT; Zonyl @.5; EG @5%         |
+| One .4 DMSO instead of EG           | PDOT; Zonyl @.4; DMSO @5%       |
+| One PDOT PH 510 with Zonyl and EG   | PDOT PH510; Zonyl @.4; EG @5%   |
+| One PDOT PH 510 with Zonyl and DMSO | PDOT PH510; Zonyl @.4; DMSO @5% |
