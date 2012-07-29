@@ -1,0 +1,19 @@
+\documentclass[a4paper]{article}
+\usepackage[english]{babel}
+\usepackage[hmargin=3cm,vmargin=3.5cm]{geometry}
+\usepackage{microtype}
+\pagestyle{empty}
+
+\begin{document}
+
+\section{Shottky type Solar Cells}
+Schottky-type solar cells offer the possibility to attain light to electricity conversion efficiencies similar to ``standard'' solar cells, without the need for a high-energy, high-cost p-n-junction assembly from different types of Silicone (Si).
+\section{Optimising surfactant concentration}
+The ultimate efficiency of the Schottky-type solar cell is largely dependant on the quality of the polymer film which is used to induce the inversion layer within the Si-base. Therefore it is the aim of this project to optimise the poly(ethylene dioxythiophene):poly(styrene sul-fonate) (PEDOT:PSS) - film properties. The focus is on the optimal amount of surfactant -- here ``Zonyl'' -- to be added. In a set of experiments, the surfactant concentration in the polymer solution has been varied while all other parameters were held constant. The differet solutions were spun-cast on glass plates and then analysed with four-point probe resistance measurements, transmission spectrometry as well as atomic force an optical microscopy (AFM) directly on the glass. Solar cell devices were assembled from these films and n-type-Si in a lift-off float-on (LOFO) process. Silver top contacts were created using electron beam evaporation. 
+\section{Results}
+On glass, optimal -- i.e. minimal -- resistivity was found for films with a surfacant concentration of 0.5 weight percent with respect to PDOT:PSS. Film-transmissivity was optimal for films containing 0.4\% Zonyl. Solar cell devices assembled using the LOFO-process and films containing 0.5\% Zonyl showed the highest efficiency.\\
+In a side project, the film's resistivity could be reduced by a factor of $\approx \, 7$ by introducing a thin film of graphene underneath. So far, no devices containing that same layer of graphene could be assembled, but it is hoped that they will show an according increase in coversion efficiency. 
+\section{Conclusion}
+In conclusion, PDOT:PSS properties similar to what has been found in the literature could be reproduced, their optimum directly translating to optimal devices.\n
+The side project involving graphene shows promising preliminary results and will be pursued further in this project's remaining time with the hope to ultimately produce high quality decives.
+\end{document}
